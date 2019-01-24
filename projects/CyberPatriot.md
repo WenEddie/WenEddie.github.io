@@ -13,7 +13,7 @@ labels:
 summary: I participated in the CyberPatriot VIII and CyberPatriot IX competitions during my junior and senior year of high school.
 ---
 
-<img class="ui small right floated rounded image" src="/images/CyberPatriot-Logo.jpg">
+<img class="ui medium right floated rounded image" src="/images/CyberPatriot-Logo.jpg">
 
 CyberPatriot is a national youth cyber security competition where a team of students work together on a virtual image to strengthen the system based on operating system and confront cybersecurity vulnerabilities. I was tasked to work on Windows 8, Windows 10, and Ubuntu throughout the two years.
 
