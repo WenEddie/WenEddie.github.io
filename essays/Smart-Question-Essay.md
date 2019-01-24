@@ -18,14 +18,14 @@ Questions will always be asked regardless of what their profiles may be. However
 ## Bad Question Example
 Most questions from Stack Overflow can be categorize into two types of questions, that is smart versus bad questions. When browsing through the forums, notice the correlation between the upvotes/downvotes and their question being asked. Here is an example of a bad question regarding why their block of code does not work:
 
-<img class="ui tiny image" src="../images/BadQuestion.PNG">
+<img class="ui large image" src="../images/BadQuestion.PNG">
 
 When reading a question that asks, “why my code doesn’t work”, it has a small implication of asking the reader to read a bunch of code and fix their problem. This often frustrates the reader that will result to poor responses or none at all. The goal of their question was not specified, along with no further details about what the programmer had tried such as displaying output. Another reason why it is a bad question is their presentation. Capitalization, spelling, and punctuations were improperly done. Hence, showing careless and sloppy features of would not be any additional help to solving your problem.
 
 ## Smart Question Example
 After viewing an example of a bad question, a smart question should contain a descriptive goal, clear grammatical and spell-checked format, and details of any indication or evidence relating to the problem. Here is an example of a smart question:
 
-<img class="ui tiny image" src="../images/SmartQuestion.PNG">
+<img class="ui medium image" src="../images/SmartQuestion.PNG">
 
 The title of the question is well-descriptive and clear about the goal of their problem. The writer explained what they have experimented along with a small snippet of their code. This can help the reader understand how to find their answer. Everything that was written has been neatly formatted in terms of capitalization, spelling, and punctuation.
 
