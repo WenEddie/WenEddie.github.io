@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Why asking questions is needed for Software Developers
-<img class="ui medium left rounded floated image" src="../images/questions.jpg">
+<img class="ui small right rounded floated image" src="../images/Question.jpg">
 
 Questions will always be asked regardless of what their profiles may be. However, I will be discussing from the perspective of software developers. Programmers often face bugs to fix, ranging from syntax errors, compiling errors, and web development. Some problems are easy to fix with a little bit of research online, but other problems may even seem impossible to deal with. When facing difficulties, we often resort to asking questions to platforms such as web forums, emails, and Stack Overflow. It is most important on how we ask our questions to receive the most effective responses that would also help other software developers.
 
@@ -18,7 +18,7 @@ Questions will always be asked regardless of what their profiles may be. However
 ## Bad Question Example
 Most questions from Stack Overflow can be categorize into two types of questions, that is smart versus bad questions. When browsing through the forums, notice the correlation between the upvotes/downvotes and their question being asked. Here is an example of a bad question regarding why their block of code does not work:
 
-<img class="" src="../images/BadQuestion.PNG">
+<img class="large" src="../images/BadQuestion.PNG">
 
 When reading a question that asks, “why my code doesn’t work”, it has a small implication of asking the reader to read a bunch of code and fix their problem. This often frustrates the reader that will result to poor responses or none at all. The goal of their question was not specified, along with no further details about what the programmer had tried such as displaying output. Another reason why it is a bad question is their presentation. Capitalization, spelling, and punctuations were improperly done. Hence, showing careless and sloppy features of would not be any additional help to solving your problem.
 
