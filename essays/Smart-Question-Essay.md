@@ -25,7 +25,7 @@ When reading a question that asks, “why my code doesn’t work”, it has a sm
 ## Smart Question Example
 After viewing an example of a bad question, a smart question should contain a descriptive goal, clear grammatical and spell-checked format, and details of any indication or evidence relating to the problem. Here is an example of a smart question:
 
-<img class="image" height="608" width="708" src="../images/SmartQuestion.PNG">
+<img class="" src="../images/SmartQuestion.PNG">
 
 The title of the question is well-descriptive and clear about the goal of their problem. The writer explained what they have experimented along with a small snippet of their code. This can help the reader understand how to find their answer. Everything that was written has been neatly formatted in terms of capitalization, spelling, and punctuation.
 
