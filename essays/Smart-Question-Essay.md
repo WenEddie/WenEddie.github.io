@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Why asking questions is needed for Software Developers
-<img class="ui medium left rounded floated image" src="../images/javaLogo.png">
+<img class="ui medium left rounded floated image" src="../images/questions.jpg">
 
 Questions will always be asked regardless of what their profiles may be. However, I will be discussing from the perspective of software developers. Programmers often face bugs to fix, ranging from syntax errors, compiling errors, and web development. Some problems are easy to fix with a little bit of research online, but other problems may even seem impossible to deal with. When facing difficulties, we often resort to asking questions to platforms such as web forums, emails, and Stack Overflow. It is most important on how we ask our questions to receive the most effective responses that would also help other software developers.
 
