@@ -99,6 +99,17 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
+    },
+    {
+      "organization": "Hawaiian Humane Society",
+      "website": "https://www.hawaiianhumane.org/",
+      "position": "Animal Shelter Volunteer",
+      "startDate": "2016-10-15",
+      "endDate": "2017-5-7",
+      "summary": "Maintain the animal shelter to be presentable and provide customer service to visitors along with social interactions with the animals.",
+      "highlights": [
+        "Customer Service"
+      ]
     }
   ],
   "awards": [
@@ -106,7 +117,7 @@
       "title": "McKinley Foundation Scholarship",
       "date": "2017-05",
       "awarder": "McKinley Foundation",
-      "summary": "$1000"
+      "summary": "Awarded $1000 by McKinley Foundation Scholarship"
     },
   ],
   "references": [
