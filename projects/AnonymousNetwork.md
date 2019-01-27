@@ -21,8 +21,8 @@ My role was more of a self-directed learner with the help of an advisor. Initial
 
 This Senior Project experience has expanded my knowledge of my field of interests that encourages me to pursue the route of cyber security. I had also gained experience on an unfamiliar operating system (Linux) that were on the laptops. Lastly, the project encourages me to stay highly organized and time manage throughout the tasks.
 
-<img class="ui large floated rounded image" src="/images/Network1.PNG"> 
-<img class="ui large floated rounded image" src="/images/Network2.PNG">
+<img class="ui large rounded image" src="/images/Network1.PNG"> 
+<img class="ui large rounded image" src="/images/Network2.PNG">
 
 
 
