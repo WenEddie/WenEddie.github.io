@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MHS-Logo.jpg
-title: High School Senior Project: Anonymous Network
+title: High School Senior Project - Anonymous Network
 permalink: projects/anonymous_network
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-26
