@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://WenEddie.github.io/images/Eddie.jpg",
     "email": "eddiewen@hawaii.edu",
-    "phone": "",
+    "phone": "808-206-4763",
     "website": "https://WenEddie.github.io",
     "summary": "I am a student at UH Manoa pursuing Bachelor of Science in Computer Science that specialiizes in Cyber Security. I expect to graduate in Spring, 2021.",
     "location": {
@@ -89,15 +89,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Referentia Systems Inc.",
+      "website": "https://www.referentia.com/",
+      "position": "Senior Project Experience",
+      "startDate": "2016-10-10",
+      "endDate": "2016-10-14",
+      "summary": "Fieldwork Experience on constructing a private miniture Tor (anonymous) network",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Used apache2, Tor software, and Wireshark to successfully construct the project"
       ]
     },
     {
@@ -106,9 +105,9 @@
       "position": "Animal Shelter Volunteer",
       "startDate": "2016-10-15",
       "endDate": "2017-5-7",
-      "summary": "Maintain the animal shelter to be presentable and provide customer service to visitors along with social interactions with animals.",
+      "summary": "Maintain the animal shelter to be presentable and provide customer service to visitors along with social interactions with animals",
       "highlights": [
-        "Customer Service"
+        "Provided Customer Service"
       ]
     }
   ],
