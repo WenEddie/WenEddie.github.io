@@ -14,7 +14,7 @@ labels:
 
 ## Curiosity in Software Engineering
 
-My interests of software engineering began when I was a young boy in the early 2000s, it was always about playing online games. The graphics and how the game functions had me wondered how it was possible to implement them. Years later, games had advanced in complexity, so does mathematics and algorithms that had caught my interest as well. Another interest I have is cyber security which sprung from CyberPatriot. There were so many topics to learn ranging from application to network security. I simply want to do my best to protect our society from cyberattacks. 
+My interests of software engineering began when I was a young boy in the early 2000s, it was always about playing online games. The graphics and how the game functions had me wondered how it was possible to implement them. Years later, games had advanced in complexity, so does mathematics and algorithms that had caught my interest as well. Another interest I have is cyber security which sprung from CyberPatriot. There were so many topics to learn ranging from application to network security. I simply want to do my best to protect our society from cyber attacks. 
 
 
 
