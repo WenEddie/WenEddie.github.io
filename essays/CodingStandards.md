@@ -16,10 +16,10 @@ In the world of programming, every programmer has their own preference in coding
 
 ## Bad Coding Example
 Here is an example of what bad coding style may seem: 
-<img class="huge image" src="../images/BadCodingStandard.PNG">
+<img class="large image" src="../images/BadCodingStandard.PNG">
 
 When it comes to coding standards, one of the most essential aspects is readability. A friend of mine asked me to review his code. I proceeded and noticed that everything that was typed had no indentations. It may only be understandable to the programmer but to everyone else, it made no sense. When speaking about readability, it is important to have other people, which may include teammates, employers, and yourself, to be able to comprehend what the code means. Another addition about coding in coding standards is the maintainability. Being able to write and update code without losing track is helpful to the programmer whenever the code needs to be changed.
 
 ## Personal Impression and Insight
-<img class="ui small left rounded floated image" src="../images/CodingStandardExp.png">
+<img class="ui medium left rounded floated image" src="../images/CodingStandardExp.png">
 The first time I was coding while following the coding standards, I felt no importance towards it. Missing a space, or unaligned curly brace was not an issue. As time and experience grows, following coding standards is an absolute must. It simply made code writing a lot more comfortable and overall, more time efficient. Recently, I have been using ESLint with Intellij. The coding standards felt new, especially the green checkmark which determines if any code violates the coding standard rules. However, it enforced the idea of having readable code along with the satisfaction of the green checkmark. Throughout my experiences as a programmer, I believe following coding standards is an essential habit to pursue as a software developer.
