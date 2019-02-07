@@ -17,7 +17,7 @@ In the world of programming, every programmer has their own preference in coding
 ## Bad Coding Example
 Here is an example of what bad coding style may seem: 
 
-<img class="huge image" src="../images/BadCodingStandard.png">
+<img class="large image" src="../images/BadCodingStandard.png">
 
 When it comes to coding standards, one of the most essential aspects is readability. A friend of mine asked me to review his code. I proceeded and noticed that everything that was typed had no indentations. It may only be understandable to the programmer but to everyone else, it made no sense. When speaking about readability, it is important to have other people, which may include teammates, employers, and yourself, to be able to comprehend what the code means. Another addition about coding in coding standards is the maintainability. Being able to write and update code without losing track is helpful to the programmer whenever the code needs to be changed.
 
