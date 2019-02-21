@@ -18,7 +18,7 @@ When creating and designing websites, its usually either raw HTML or UI Framewor
 ## My Experience and Insight
 My first experience in HTML begins without any UI Frameworks. Our first task involved formatting paragraphs into three columns. With raw HTML, each paragraph was wrapped in a div, then in CSS, it was assigned to either float left or float right. Although it did work, the three-column formatting was altered every time the window size is changed. Afterwards, I recreated the same task, but with Semantic UI. My code wrapped the three paragraphs using “ui equal width grid” class and within each paragraph, it has another class using “ui column”. The amount of HTML was less, and the design format was what I needed. 
 
-Below is one of my assignment using Semantic UI.
-<img class="ui medium centered image" src="../images/Murphys-Replica.PNG">
+Below is another one of my assignment using Semantic UI.
+<img class="ui large centered image" src="../images/Murphys-Replica.PNG">
 
 Overall, I would say using Semantic UI or any UI frameworks made my experience working with webpages easier and more time efficient, especially when compared to raw HTML. The only potential drawback is learning about how each UI framework operates. However, the benefits of using UI Frameworks will be worthwhile when working on projects.
