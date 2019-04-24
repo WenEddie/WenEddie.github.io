@@ -10,7 +10,7 @@ labels:
 ---
 
 ## The Premise of Design Patterns
-<img class="ui small right rounded floated image" src="../images/DesignP.jpg">
+<img class="ui medium right rounded floated image" src="../images/DesignP.jpg">
 
 In a world filled with recurring problems, how do we deal with them? When facing everyday problems, we often use the same type of approach towards a problem. Whether it is using a home remedy to deal with pain, or how to deal with frustration, everyone has their own methods to approach recurring problems. In terms of software engineering, programmers are often faced with similar types of situations or problems where using a certain approach would deem to be the best fit. This is a term called design pattern. A design pattern is a general and reusable approach, or template, applied to a common occurring problem. They are very essential in software engineering to the extent where programming languages have implemented design patterns to use without being explicitly known as design patterns.
 
