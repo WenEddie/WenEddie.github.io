@@ -16,6 +16,6 @@ In a world filled with recurring problems, how do we deal with them? When facing
 
 
 ## Encounters of Design Patterns
-<img class="ui small left rounded floated image" src="../images/DesignPattern.jpg">
+<img class="ui medium left rounded floated image" src="../images/DesignPattern.jpg">
 
 Before I was exposed to the concept of design patterns, I have worked with classes in C++ and Java. This is a Prototype Design Pattern since classes uses the idea of creating objects. A more recent use of design patterns is called the Observer Design Pattern. It is an object that maintains its dependencies and when the object is changed, then the dependencies are notified by the changes made. An example of the Observer Design Pattern is reactive data in Meteor. A project that I contributed is called ManoaCart, which had MongoDB collections of user profiles, and products. Both of these collections are highly subjected to change, so the information that is changed are updated on MongoDB, which would be the reactive data in this case. Then, Meteor would receive the notification and will proceed to re-run Meteor on the updated information. This design pattern has been helpful when I needed to verify if data has been changed or not. Throughout my current experiences, design patterns are valuable tools used in software development.
