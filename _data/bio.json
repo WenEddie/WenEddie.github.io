@@ -42,6 +42,11 @@
       "name": "Algorithms",
       "keywords": [
       ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -61,7 +66,9 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Linux"
+        "Linux",
+        "Github",
+        "Meteor"
       ]
     }
   ],
@@ -89,17 +96,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Referentia Systems Inc.",
-      "website": "https://www.referentia.com/",
-      "position": "Senior Project Experience",
-      "startDate": "2016-10-10",
-      "endDate": "2016-10-14",
-      "summary": "Fieldwork Experience on constructing a private miniture Tor (anonymous) network",
-      "highlights": [
-        "Used apache2, Tor software, and Wireshark to successfully construct the project"
-      ]
-    },
-    {
       "organization": "Hawaiian Humane Society",
       "website": "https://www.hawaiianhumane.org/",
       "position": "Animal Shelter Volunteer",
@@ -109,9 +105,32 @@
       "highlights": [
         "Provided Customer Service"
       ]
+    },
+    {
+      "organization": "Referentia Systems Inc.",
+      "website": "https://www.referentia.com/",
+      "position": "Senior Project Experience",
+      "startDate": "2016-10-10",
+      "endDate": "2016-10-14",
+      "summary": "Fieldwork Experience on constructing a private miniture Tor (anonymous) network",
+      "highlights": [
+        "Used apache2, Tor software, and Wireshark to successfully construct the project"
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "2019 UH Mānoa Summer Sophomore Merit Scholarship",
+      "date": "2019",
+      "awarder": "University of Hawaii at Mānoa, Outreach College",
+      "summary": "Awarded $1200 for Summer 2019, must have cumulative GPA of 3.5 or higher"
+    },
+    {
+      "title": "2018 UH Mānoa Summer Freshman Merit Scholarship",
+      "date": "2018",
+      "awarder": "University of Hawaii at Mānoa, Outreach College",
+      "summary": "Awarded $1200 for Summer 2018, must have cumulative GPA of 3.5 or higher"
+    },
     {
       "title": "McKinley Foundation Scholarship",
       "date": "2017-05",
