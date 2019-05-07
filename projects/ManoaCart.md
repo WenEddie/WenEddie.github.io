@@ -13,7 +13,7 @@ labels:
 summary: ManoaCart is a web application team project designed to make UH Manoa transaction between students easier.
 ---
 
-<img src="/images/manoacart-m3-SelectBuy.png" style="height: 425px; width: 886px;">
+<img src="/images/manoacart-m3-SelectBuy.png" style="height: 300px; width: 708px;">
 
 For the final project of ICS 314, my team and I decided to create a web application called ManoaCart. The purpose of the project is to provide a platform for UH Manoa students to buy and sell supplies from a course that they had taken before. This would allow students to be more aware of supplies that may be needed for their future courses. The website allows UH Manoa students to register an account to sell their items and to buy items from the other users as well. There are additional features for users to rate the sellers (by giving stars from 1 to 5), report the user by sending a report to the admin, and also view the seller's profile. 
 
