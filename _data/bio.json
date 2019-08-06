@@ -75,17 +75,25 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2021), (GPA: 3.82), (ICS GPA: 3.92)",
       "studyType": "B.S.",
       "startDate": "2017-08",
       "endDate": "Present",
-      "gpa": "3.78",
+      "gpa": "3.82",
       "courses": [
+        "ICS 111: Intro to Computer Science I (Java)",
+        "ICS 141: Discrete Mathematics for CS I",
+        "ICS 211: Intro to Computer Science II (Java)",
+        "ICS 212: Program Structure (C/C++)",
+        "ICS 222: Basic Concepts of Computer Science",
+        "ICS 241: Discrete Mathematics for CS II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I (Javascript)"
       ]
     },
     {
       "institution": "McKinley High School, Honolulu, HI",
-      "area": "Magna Cum Laude and Academic Honors Recognition",
+      "area": "Magna Cum Laude and Academic Honors Recognition, (GPA: 3.8)",
       "studyType": "High School Diploma",
       "startDate": "2013",
       "endDate": "2017",
@@ -95,6 +103,18 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Association for Computing Machinery at Manoa (ACM)",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Partipate in two Special Interest Groups (SIGs)",
+      "highlights": [
+        "Algorithms for Competitions and Interviews (ACI)",
+        "Grey Hats"
+      ]
+    },
     {
       "organization": "Hawaiian Humane Society",
       "website": "https://www.hawaiianhumane.org/",
