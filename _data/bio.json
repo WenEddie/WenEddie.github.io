@@ -132,7 +132,7 @@
       "position": "Senior Project Experience",
       "startDate": "2016-10-10",
       "endDate": "2016-10-14",
-      "summary": "Fieldwork Experience on constructing a private miniture Tor (anonymous) network",
+      "summary": "Fieldwork Experience on constructing a private miniature Tor (anonymous) network",
       "highlights": [
         "Used apache2, Tor software, and Wireshark to successfully construct the project"
       ]
